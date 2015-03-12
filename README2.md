@@ -18,10 +18,13 @@ git pull origin master
 # Subiendo cambios en el repositorio local al repositorio remoto
 git push origin master 
 
-# Rama developer 
+# Rama developer
 
 # Crear una rama
 git branch nombre_de_la_rama
+
+# Agregar la rama cambiada al repositorio remoto
+git push origin nombre_de_la_rama
 
 # Cambiar de rama
 git checkout nombre_de_la_rama
