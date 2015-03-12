@@ -23,6 +23,9 @@ git push origin master
 # Crear una rama
 git branch nombre_de_la_rama
 
+# Agregar la rama al repositorio remoto
+git push origin nombre_de_la_rama
+
 # Cambiar de rama
 git checkout nombre_de_la_rama
 
