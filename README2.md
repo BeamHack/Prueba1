@@ -29,5 +29,3 @@ git push origin nombre_de_la_rama
 # Cambiar de rama
 git checkout nombre_de_la_rama
 
-#esto hice en la rama developer
-
